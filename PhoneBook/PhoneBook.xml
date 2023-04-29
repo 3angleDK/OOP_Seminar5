@@ -1,0 +1,73 @@
+<?xml version='1.0' ?>
+<phonebook>
+<record>
+<field>
+<property name="name" value="First Name"/>
+<property name="value" value="Ivan"/>
+<field/>
+<field>
+<property name="name" value="Last Name"/>
+<property name="value" value="Ivanov"/>
+<field/>
+<field>
+<property name="name" value="Phone Number"/>
+<property name="value" value="123"/>
+<field/>
+<record/>
+<record>
+<field>
+<property name="name" value="First Name"/>
+<property name="value" value="Petr"/>
+<field/>
+<field>
+<property name="name" value="Last Name"/>
+<property name="value" value="Petrov"/>
+<field/>
+<field>
+<property name="name" value="Phone Number"/>
+<property name="value" value="456"/>
+<field/>
+<record/>
+<record>
+<field>
+<property name="name" value="First Name"/>
+<property name="value" value="Sidor"/>
+<field/>
+<field>
+<property name="name" value="Last Name"/>
+<property name="value" value="Sidorov"/>
+<field/>
+<field>
+<property name="name" value="Phone Number"/>
+<property name="value" value="789"/>
+<field/>
+<record/>
+<record>
+<field>
+<property name="name" value="First Name"/>
+<property name="value" value="Nick"/>
+<field/>
+<field>
+<property name="name" value="Last Name"/>
+<property name="value" value="Nickolaev"/>
+<field/>
+<field>
+<property name="name" value="Phone Number"/>
+<property name="value" value="147"/>
+<field/>
+<record/>
+<record>
+<field>
+<property name="name" value="First Name"/>
+<property name="value" value="qqq"/>
+<field/>
+<field>
+<property name="name" value="Last Name"/>
+<property name="value" value="www"/>
+<field/>
+<field>
+<property name="name" value="Phone Number"/>
+<property name="value" value="159"/>
+<field/>
+<record/>
+<phonebook/>
